@@ -4,7 +4,7 @@ from pinecone import ServerlessSpec
 import time
 
 # Initialize a Pinecone client with your API key
-pc = Pinecone(api_key="pcsk_2JvGAp_6NPir4v4Drt4hCyZsGjSh7SoFeebofHS9M5sexhaHwXJfCbZ1HMXitt4cQEcgzA")
+pc = Pinecone(api_key="")
 index_name="transcript-index"
 namespace="transcript-namespace"
 
