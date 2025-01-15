@@ -1,0 +1,8 @@
+openai-whisper
+ffmpeg-python
+torch
+yt-dlp
+sentencepiece
+pinecone[grpc]
+sentence-transformers
+flask
