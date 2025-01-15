@@ -3,7 +3,7 @@ from openai import OpenAI
 import os
 
 # Définition de la clé API directement
-OPENAI_API_KEY = "sk-svcacct-t7O894JVgo01K7cpNMqhHO_p_oWGyvIRTTKH7xCm1NShT0fnYABFenheUDAecT3BlbkFJIXqHO7XJxw9r3XFdr8K6t0RtIf3wM5482bNF3l8KdNOiAbaip_bvs5dBV99WwA"
+OPENAI_API_KEY = ""
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 def generate_response(prompt):
